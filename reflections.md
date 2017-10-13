@@ -1,6 +1,6 @@
 # PID Controller
 
-The proportional–integral–derivative controller (PID controller) continuously calculates an error value {\displaystyle e(t)} e(t) as the difference between a desired setpoint and a measured process variable and applies a correction based on proportional, integral, and derivative terms (denoted P, I, and D respectively).
+The proportional–integral–derivative controller (PID controller) continuously calculates an error value e(t) as the difference between a desired setpoint and a measured process variable and applies a correction based on proportional, integral, and derivative terms (denoted P, I, and D respectively).
 In our project the controller adjust the steer angle.
 
 The 3 parts of the controller are:
